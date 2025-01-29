@@ -2,7 +2,7 @@ from PIL import Image # pip install pillow
 import numpy as np
 
 # path to file with pic
-image_path = "ippyheader1.png"
+image_path = "your_file"
 
 img = Image.open(image_path).convert("L")  # convert("L") converting pic to gray
 
