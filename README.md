@@ -1,4 +1,3 @@
-# convert_to_ascii
 # Quick conversion of pictures to ASCII text images
 
 ## First of all, install Pillow
@@ -16,6 +15,10 @@ new_height = int(new_width * aspect_ratio * 0.5)
 img = img.resize((new_width, new_height))
 ```
 
-[My TG](https://t.me/ov4rlxrd)
-[My X](https://x.com/DDenicah)
+[My TG](https://t.me/ov4rlxrd):heart: 
+[My X](https://x.com/DDenicah):heart: 
+
+
+
+# With Love to [Story](https://x.com/StoryProtocol) Community :heart: 
 
